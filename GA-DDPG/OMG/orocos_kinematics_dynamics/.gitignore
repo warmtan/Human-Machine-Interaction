@@ -1,0 +1,15 @@
+*.o
+*.so
+*.pyc
+python_orocos_kdl/build/
+orocos_kdl/build/
+__pycache__
+*/build
+*/CMakeFiles
+CMakeCache.txt
+sip-4.19.3/siplib/Makefile
+sip-4.19.3/sipgen/sip
+sip-4.19.3/Makefile
+sip-4.19.3/sipconfig.py
+sip-4.19.3/sipgen/Makefile
+
